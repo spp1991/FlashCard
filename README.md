@@ -23,7 +23,7 @@ SSH:
 $ git clone git@github.com:spp1991/FlashCard.git
 ```
 
-Click on the index.html file on todlist folder to start the application
+Click on the index.html file on FlashCard folder to start the application
 
 ## Built With
 
